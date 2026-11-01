@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>practical</title>
+</head>
+<body>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZceYW9IxrUx3lvGU-nPy-D_WinDeGtV6lJWS6ygFW_Q&s=10"  
+        width="550" height="600"><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W4SCGNKQiEN6BOnEifHdOcDtZjCvxndm-J3eJOaUoQ&s=10"
+         width="500" height="700"><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldxHmAuUODc2dkJqMHy7-b1lvggdTdx5cOFRH5_1Qag&s=10"
+       width="500" height="300">
+<iframe src="https://www.youtube.com/embed/LZpSx-3fUT0?si=sD4ggZ4UY3C9IrJ4" width="1250" height="750"></iframe><br>
+
+<iframe src="https://www.youtube.com/embed/r-r8Hr2j6uY?si=cP6vP-xhJO2xE6qN" width="1250" height="750"></iframe>
+
+
+</body>
+
+
+</html>
